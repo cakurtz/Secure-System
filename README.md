@@ -1,4 +1,4 @@
-# Secure System
+# SecureSystem
 
 [Description]
 My SecureSystem begins by initializing mappings and creates the subjects "lyle" and "hal" and objects "lobj" and "hobj" with their respective security levels that cannot change. It then parses the provided file by line. For each line, an InstructionObject is created and uses a Scanner to parse through and break it into components using the following formats.
